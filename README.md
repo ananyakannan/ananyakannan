@@ -27,7 +27,7 @@ MS Biotechnology student at Northeastern University, building a portfolio in dry
 driven by a single command with a config-file
 | 5 | [project5-rnaseq-pipeline](https://github.com/ananyakannan/project5-rnaseq-pipeline) | Manual RNA-seq pipeline
 from raw FASTQ to a gene × sample count matriHR vs. HBR, chr22-subset Griffith Lab tutorialdata); QC, trimming, alignment, and quantification |
-| 4 | [project4-colorectal-pathway-analysis](annan/project4-colorectal-pathway-analysis) |Clinical + expression data analysis across 580 TCGA colorectal cancer patients; Kruskal-Wallis testing with
+| 4 | [project4-colorectal-pathway-analysis](https://github.com/ananyakannan/project4-colorectal-pathway-analysis) |Clinical + expression data analysis across 580 TCGA colorectal cancer patients; Kruskal-Wallis testing with
 Benjamini-Hochberg FDR correction |
 | — | [lung-cancer-tcga-analysis](https://github.com/ananyakannan/lung-cancer-tcga-analysis) | Independent capstone —
 mutation and Kaplan-Meier survival analysis aarcinoma patients (EGFR, KRAS, TP53, STK11,KEAP1) |
