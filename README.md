@@ -39,4 +39,5 @@ MS Biotechnology student at Northeastern University, building a portfolio in **d
 | — | [biopython-practice](https://github.com/ananyakannan/biopython-practice) | Early practice notebooks — Biopython, NumPy, Pandas, Matplotlib fundamentals |
 
 ## 📫 Connect
-[LinkedIn](https://linkedin.com/in/ananyakannan-633651233)
+[LinkedIn](https://www.linkedin.com/in/ananya-kannan-633651233/)
+
